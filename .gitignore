@@ -237,4 +237,4 @@ _Pvt_Extensions
 .fake/
 
 # Sensitive
-DataAccess/BlackJackContext.cs
+DataAccess/Constants.cs
